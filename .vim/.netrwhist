@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/hallnkight/Videos'
+let g:netrw_dirhist_7='/home/hallnkight/Templates'
+let g:netrw_dirhist_6='/home/hallnkight/Public'
+let g:netrw_dirhist_5='/home/hallnkight/Pictures'
+let g:netrw_dirhist_4='/home/hallnkight/Music'
+let g:netrw_dirhist_3='/home/hallnkight/Downloads'
+let g:netrw_dirhist_2='/home/hallnkight'
+let g:netrw_dirhist_1='/home/hallnkight/Documents'
+let g:netrw_dirhist_0='/home/hallnkight/Videos'
+let g:netrw_dirhist_9='/home/hallnkight/Templates'
