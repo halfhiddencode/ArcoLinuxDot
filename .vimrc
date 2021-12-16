@@ -61,3 +61,6 @@ highlight LineNrBelow ctermfg=128
 "highlight LineNr ctermfg=1
 set cursorline 
 highlight CursorLineNr gui=bold ctermfg=220
+set hlsearch
+highlight Search ctermfg=210 
+imap jj <Esc>
